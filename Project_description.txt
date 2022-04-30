@@ -1,0 +1,16 @@
+Resume for Jason Hicks
+
+inject elments by using javascripts.
+    program functions to load typed data from javascript into html elments
+    have it add and display when page is loaded
+    Boy Scout is all typed
+    School list is typed
+
+change pictures 
+    done by hovering
+
+Suggestion originally call reviews
+    user generated text into a pop up
+    enter text in to array
+    create list elment 
+    allow change for completion  
